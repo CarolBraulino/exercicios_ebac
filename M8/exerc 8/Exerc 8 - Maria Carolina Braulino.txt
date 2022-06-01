@@ -1,0 +1,10 @@
+Github - https://github.com/Calsimm/exercicios_ebac
+
+Exercicio 1 
+https://github.com/Calsimm/exercicios_ebac/blob/main/%23Exercicio%201_Configurar.feature
+
+Exercicio 2
+https://github.com/Calsimm/exercicios_ebac/blob/main/%23Exercicio%202_Login.feature
+
+Exercicio 3
+https://github.com/Calsimm/exercicios_ebac/blob/main/%23Exercicio%203_Checkout.feature

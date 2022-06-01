@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "6268541950b459b2631e9225"
+  },
+  "nome": "Fábio",
+  "nota": 9,
+  "curso": "SQL"
+},{
+  "_id": {
+    "$oid": "6268541950b459b2631e9229"
+  },
+  "nome": "Victor",
+  "nota": 9,
+  "curso": "DEV"
+},{
+  "_id": {
+    "$oid": "6268541950b459b2631e922a"
+  },
+  "nome": "Jonas",
+  "nota": 9,
+  "curso": "SQL"
+},{
+  "_id": {
+    "$oid": "6268541950b459b2631e922b"
+  },
+  "nome": "Luana",
+  "nota": 8,
+  "curso": "PM"
+}]
