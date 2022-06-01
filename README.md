@@ -1,6 +1,6 @@
 <h1>EXERCÍCIOS EBAC </h1>
 
-Aqui estão os exercícios da EBAC do curso de Engenheiro de Qualidade de SW
+Aqui estão os exercícios da EBAC do curso de Engenheiro de Qualidade de Software
 
 >Skills:
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
@@ -11,7 +11,6 @@ Aqui estão os exercícios da EBAC do curso de Engenheiro de Qualidade de SW
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 [![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green)](https://github.com/ServeRest/ServeRest/)
 
-![Progress](https://img.shields.io/badge/Progress-14%2F34-black)&nbsp;
 
 - [x] Módulo 01 - O profissional de Qualidade e suas habilidades
 - [x] Módulo 02 - Qualidade de Software e Network
