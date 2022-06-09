@@ -1,3 +1,6 @@
 [submodule "M10/Aula-Git/aula-cinco-git"]
 	path = M10/Aula-Git/aula-cinco-git
 	url = https://github.com/CarolBraulino/exercicios_ebac.git
+[submodule "M10/Aula-Git/aula-git"]
+	path = M10/Aula-Git/aula-git
+	url = https://github.com/CarolBraulino/exercicios_ebac.git
