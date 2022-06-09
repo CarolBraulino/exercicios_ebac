@@ -32,7 +32,7 @@ Aqui estão os exercícios da EBAC do curso de Engenheiro de Qualidade de Softwa
 - [x] Módulo 18 - Testes de performance
 - [x] Módulo 19 - Banco de dados SQL e noSQL
 - [x] Módulo 20 - Programando com Javascript
-- [x] Módulo 21 - Testes de unidade
+- [ ] Módulo 21 - Testes de unidade
 - [ ] Módulo 22 - Automação de UI com Cypress - Indo além do básico
 - [ ] Módulo 23 - Automação de UI com Cypress - Tornando o seu projeto completo
 - [ ] Módulo 24 - Automação de API - Conhecendo GraphQL, Supertest e PactJS
