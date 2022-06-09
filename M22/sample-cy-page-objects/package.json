@@ -1,0 +1,14 @@
+{
+  "name": "sample-cy-page-objects",
+  "version": "1.0.0",
+  "description": "Exemplos de organização de testes utilizando PageObjects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "ernestosbarbosa",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.7.0"
+  }
+}
