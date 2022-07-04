@@ -2,16 +2,6 @@
 
 Aqui estão os exercícios da EBAC do curso de Engenheiro de Qualidade de Software
 
->Skills:
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=Cypress)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-[![Badge ServeRest](https://img.shields.io/badge/API-ServeRest-green)](https://github.com/ServeRest/ServeRest/)
-
-
 - [x] Módulo 01 - O profissional de Qualidade e suas habilidades
 - [x] Módulo 02 - Qualidade de Software e Network
 - [x] Módulo 03 - Fundamentos do teste
@@ -33,7 +23,7 @@ Aqui estão os exercícios da EBAC do curso de Engenheiro de Qualidade de Softwa
 - [x] Módulo 19 - Banco de dados SQL e noSQL
 - [x] Módulo 20 - Programando com Javascript
 - [x] Módulo 21 - Testes de unidade
-- [ ] Módulo 22 - Automação de UI com Cypress - Indo além do básico
+- [x] Módulo 22 - Automação de UI com Cypress - Indo além do básico
 - [ ] Módulo 23 - Automação de UI com Cypress - Tornando o seu projeto completo
 - [ ] Módulo 24 - Automação de API - Conhecendo GraphQL, Supertest e PactJS
 - [ ] Módulo 25 - Escolhendo Linguagem e Frameworks
