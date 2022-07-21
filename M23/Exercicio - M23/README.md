@@ -17,8 +17,7 @@ Os recursos foram escritos usando a linguagem Gherkin para BDD (Behavior Driven 
 
 ### Run Tests
 
-- Execute um dos comandos abaixo para executar os testes.
-  Exemplo:
+#### Execute um dos comandos abaixo para executar os testes.
 - Executa todos os testes, execute `npm run test`
 - Para executar os testes com o a interface Cypress, execute  `npm run cy:open`
 - Para executar testes sem abrir a interface Cypress, execute  `npm run cy:run`
