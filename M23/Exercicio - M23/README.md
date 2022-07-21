@@ -1,4 +1,4 @@
-# Ebac Cypress - Modulo 23
+# Modulo 23
 
 Este é o repositório contém o exercicio do modulo 23 do curso de Engenheiro de Qualidade de Software da EBAC.
 
