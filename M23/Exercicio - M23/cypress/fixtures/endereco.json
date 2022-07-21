@@ -1,0 +1,13 @@
+{
+  "nome": "Mario",
+  "sobrenome": "Bross",
+  "empresa": "Nintendo",
+  "pais": "Brasil",
+  "endereco": "Avenida Paraná",
+  "numero": "15",
+  "cidade": "Curitiba",
+  "estado": "Paraná",
+  "cep": "30484910",
+  "telefone": "41991123098",
+  "email": "mario@nintendo.com.br"
+}
