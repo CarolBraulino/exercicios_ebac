@@ -16,8 +16,7 @@ O objetivo deste repositório é ser de fácil entendimento focado no desenvolvi
 
 ### Run Tests
 
--Execute um dos comandos abaixo para executar os testes.
-  Examples:
+#### Execute um dos comandos abaixo para executar os testes.
 - Para executar todos os testes, execute `npm run test`
 - Para executar apenas os testes de verificação de integridade, execute `npm run test:healthCheck`
 - Para executar apenas os testes E2E, execute `npm run test:e2e`
