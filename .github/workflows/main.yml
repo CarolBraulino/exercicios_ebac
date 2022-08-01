@@ -6,11 +6,7 @@ name: EBAC CI
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-<<<<<<< HEAD
-    branches: [ gh-actions-1 ]
-=======
-    branches: [ master ]
->>>>>>> cc6c668fc26f9b3424b06ff156898778818edbeb
+    branches: [ gh-actions ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -40,8 +36,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
             github_token: ${{ secrets.GITHUB_TOKEN }}
-            publish_dir: ./mochawesome-report      
-
-      
-      
-        
+            publish_dir: ./mochawesome-report    
