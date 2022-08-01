@@ -9,7 +9,7 @@
     "cy:run": "npx cypress run",
     "cy:report": "npx mochawesome-merge ./mochawesome-report/mochawesome*.json  > mochawesome-report/report.json && npx marge mochawesome-report/report.json",
     "cy:run-ci": "start-server-and-test start http://localhost:3000/ test",
-    "cy:dashboard": "cypress run --record --key 9953166e-ac43-4f4b-9a8c-6edd5e986d67"
+    "cy:dashboard": "cypress run --record"
   },
   "keywords": [],
   "author": "Maria Braulino",
