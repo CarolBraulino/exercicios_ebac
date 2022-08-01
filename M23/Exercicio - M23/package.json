@@ -9,19 +9,19 @@
     "cy:report": "npx mochawesome-merge ./mochawesome-report/mochawesome*.json  > mochawesome-report/report.json && npx marge mochawesome-report/report.json",
     "test:allure": "npx cypress run --env allure=true",
     "allure:open": "npx allure serve",
-    "cy:dashboard": "cypress run --record --key 43126ce0-c9eb-4314-8fa1-47d64e2ef869"
+    "cy:dashboard": "cypress run --record"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndradeTC86/ebac-cypress.git"
+    "url": "git+https://github.com/CarolBraulino/exercicios_ebac/tree/master/M23/Exercicio%20-%20M23"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndradeTC86/ebac-cypress/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/AndradeTC86/ebac-cypress#readme",
+  "homepage": "",
   "dependencies": {
     "@faker-js/faker": "^6.0.0-alpha.7",
     "@shelex/cypress-allure-plugin": "^2.26.5",
