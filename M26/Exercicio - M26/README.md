@@ -22,5 +22,6 @@ O objetivo deste repositório é ser de fácil entendimento focado no desenvolvi
 - Para executar os testes gerando o Cypress Dashboard, execute `npm run cy:dashboard`
 - Para executar os testes em Integração Contínua, execute `npm run cy:run-ci`
 
-## Para acessar os testes em Integração Contínua, acesse [GitHub.io](https://carolbraulino.github.io/exercicios_ebac/)
+### Para acessar os testes em Integração Contínua, acesse [GitHub.io](https://carolbraulino.github.io/exercicios_ebac/)
+
 <p>
