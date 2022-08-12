@@ -26,7 +26,7 @@ Aqui estão os exercícios da EBAC do curso de Engenheiro de Qualidade de Softwa
 - [x] Módulo 22 - Automação de UI com Cypress - Indo além do básico
 - [x] Módulo 23 - Automação de UI com Cypress - Tornando o seu projeto completo
 - [x] Módulo 24 - Automação de API - Conhecendo GraphQL, Supertest e PactJS
-- [ ] Módulo 25 - Escolhendo Linguagem e Frameworks
+- [x] Módulo 25 - Escolhendo Linguagem e Frameworks
 - [x] Módulo 26 - Testes de Integração Contínua
 - [ ] Módulo 27 - Docker for Testers
 - [ ] Módulo 28 - Testes de Performance
