@@ -1,0 +1,5 @@
+docker build -t ebac-cypress:latest --progress=plain .
+
+docker run --rm --name ebac-cy -v "$(pwd)/allure-report:/home/cypress/allure-report" ebac-cypress
+
+docker-compose up --abort-on-container-exit
