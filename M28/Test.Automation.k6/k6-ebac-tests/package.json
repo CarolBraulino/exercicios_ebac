@@ -1,0 +1,27 @@
+{
+  "name": "k6-ebac-tests",
+  "version": "1.0.0",
+  "description": "Projeto exemplo K6",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "webpack",
+    "test": "K6 run dist/user.test.js"
+  },
+  "author": "CarolBraulino",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.0",
+    "core-js": "^3.26.1",
+    "k6": "^0.0.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "browser": {
+    "[module-name]": false   
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
