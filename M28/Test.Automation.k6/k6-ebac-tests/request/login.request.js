@@ -5,7 +5,7 @@ import Utils from "../utils/utils"
 export default class login {
     #token
 
-    acces(user,pass){
+    acces(user, pass){
         let response = http.post(`${Utils.getBaseUrl()}/login`, JSON.stringify(
             {
                 "username": user,
@@ -19,7 +19,7 @@ export default class login {
         })
         this.#token = response.json('accessToken')
         check(response, {
-            "status deve ser 201": (r) => r.status == 201 
+            "status deve ser 201": (r) => r.status === 201 
         });
         
     }
