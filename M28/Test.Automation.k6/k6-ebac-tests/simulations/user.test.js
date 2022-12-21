@@ -7,8 +7,8 @@ export default function () {
 
     let login = new Login()
     
-    group('login and get toke', () => {
-        login.acess(data.usuarioOk.user, data.usuarioOk.pass)
+    group('login and get token', () => {
+        login.acess(data.usuarioOk.user,data.usuarioOk.pass)
     })
 
     group ('list users', () => {
