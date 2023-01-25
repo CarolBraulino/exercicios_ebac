@@ -5,7 +5,7 @@ import Utils from "../utils/utils"
 export default class login {
     #token
 
-    acces(user, pass){
+    access(user, pass){
         let response = http.post(`${Utils.getBaseUrl()}/login`, JSON.stringify(
             {
                 "username": user,
