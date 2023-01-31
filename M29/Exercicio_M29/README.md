@@ -16,13 +16,6 @@ O objetivo deste repositório é ser de facil entendimento, focado no desenvolvi
 
 ## Run tests
 
-### Initial Setup
-
-1. Requer node. Para instalar, execute `npm install node` ou realize o download [Node](https://nodejs.org/en/download/)
-2. Execute o comando `npm install` para instalar as dependencias
-
-### Run Tests
-
 - Execute um dos comandos abaixo para executar os testes.
    Exemplos:
 - Para executar os testes, execute `npm run test:ios`
