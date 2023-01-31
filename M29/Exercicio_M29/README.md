@@ -20,16 +20,11 @@ O objetivo deste repositório é ser de facil entendimento, focado no desenvolvi
 
 1. Requer node. Para instalar, execute `npm install node` ou realize o download [Node](https://nodejs.org/en/download/)
 2. Rode o comando `npm install` para instalar as dependencias
-3. Para executar os testes localmente no Appium, o `.env` deve ser configurado para usar o `ENVIRONMENT = local`
-4. Para executar os testes localmente no BrowserStack, the `.env` deve ser configurado para usar o `ENVIRONMENT = browserstack`, e informe o  `BS_USER`, `BS_KEY`, `ANDROID_APP_ID`, `IOS_APP_ID`
-5. Para executar os testes localmente no BrowserStack, the `.env` deve ser configurado para usar o `ENVIRONMENT = saucelabs`, e informe o `SAUCE_USERNAME`, `SAUCE_ACCESS_KEY`
-6. Para executar os testes localmente no Android platform, the `.env` deve ser configurado para usar o `PLATFORM = android`
-7. Para executar os testes localmente no iOS platform, the `.env` deve ser configurado para usar o `PLATFORM = ios`
 
 ### Run Tests
 
 - Execute um dos comandos abaixo para executar os testes.
-  Examplos:
-- Para executar os testes, execute `npm run test`
+   Exemplos:
+- Para executar os testes, execute `npm run test:ios`
 - Para gerar os relatórios Allure, execute `npm run report`
 <p>
