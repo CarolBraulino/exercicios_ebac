@@ -16,8 +16,7 @@ O objetivo deste repositório é ser de facil entendimento, focado no desenvolvi
 
 ## Run tests
 
-- Execute um dos comandos abaixo para executar os testes.
-   Exemplos:
+- Execute um dos comandos abaixo para executar os testes.   
 - Para executar os testes, execute `npm run test:ios`
 - Para gerar os relatórios Allure, execute `npm run report`
 <p>
