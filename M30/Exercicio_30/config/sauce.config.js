@@ -17,7 +17,7 @@ let capabilities = process.env.PLATFORM === 'android' ? {
         platformName: "iOS",
         "appium:app" : 'storage:filename=loja-ebac.ipa',
         "appium:deviceName" : 'iPhone.*',
-        "appium:platforVersion" : '15.1',  
+        "appium:platforVersion" : '15.7',  
         "sauce:options":{
             "name": "Teste iOS EBAC"
         }

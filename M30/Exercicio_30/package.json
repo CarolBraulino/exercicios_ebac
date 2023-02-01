@@ -19,7 +19,7 @@
   "dependencies": {
     "@wdio/allure-reporter": "^7.19.7",
     "@wdio/browserstack-service": "^7.19.7",
-    "@wdio/sauce-service": "^7.19.7",
+    "@wdio/sauce-service": "^7.30.0",
     "allure-commandline": "^2.17.2",
     "appium": "^1.22.3",
     "appium-xcuitest-driver": "^4.4.2",
