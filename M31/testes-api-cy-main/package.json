@@ -1,0 +1,38 @@
+{
+  "name": "teste-api-cypress",
+  "version": "1.0.0",
+  "description": "-Node.js - Você encontra em: https://nodejs.org/en/",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run cy:run",
+    "start": "npx serverest",
+    "cy:run": "npx cypress run",
+    "cy:report": "npx mochawesome-merge ./mochawesome-report/mochawesome*.json  > mochawesome-report/report.json && npx marge mochawesome-report/report.json",
+    "cy:run-ci": "start-server-and-test start http://localhost:3000/ test",
+    "cy:dashboard": "cypress run --record --key 9953166e-ac43-4f4b-9a8c-6edd5e986d67"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.7.0",
+    "faker": "^5.5.3"
+  },
+  "dependencies": {
+    "cypress-multi-reporters": "^1.5.0",
+    "joi": "^17.5.0",
+    "mocha": "^9.1.4",
+    "mochawesome": "^7.0.1",
+    "mochawesome-merge": "^4.2.1",
+    "mochawesome-report-generator": "^6.0.1",
+    "start-server-and-test": "^1.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EBAC-QE/testes-api-cy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EBAC-QE/testes-api-cy/issues"
+  },
+  "homepage": "https://github.com/EBAC-QE/testes-api-cy#readme"
+}
