@@ -1,0 +1,11 @@
+{
+  "name": "exercicio_33",
+  "version": "1.0.0",
+  "description": "Teste Injection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Carolina Braulino",
+  "license": "ISC"
+}
