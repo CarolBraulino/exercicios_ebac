@@ -33,6 +33,6 @@ Aqui estão os exercícios da EBAC do curso de Engenheiro de Qualidade de Softwa
 - [x] Módulo 29 - Testando Aplicações iOS
 - [x] Módulo 30 - Testes Mobile em Continuous Integration
 - [x] Módulo 31 - Métricas de Qualidade
-- [ ] Módulo 32 - Banco de dados SQL e noSQL
-- [ ] Módulo 33 - Testes de Segurança
-- [ ] Módulo 34 - Projeto Final
+- [x] Módulo 32 - Banco de dados SQL e noSQL
+- [x] Módulo 33 - Testes de Segurança
+- [x] Módulo 34 - Projeto Final
